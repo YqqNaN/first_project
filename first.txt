@@ -1,0 +1,9 @@
+public class test{
+   public static void main(string[] args){
+      Set set = new treeSet;
+     set.add(0);
+    set.add(1);
+Map map = new HashMap();
+      map.put(''noe",123);
+}
+}
